@@ -1,6 +1,6 @@
 # Vehicle Routing with Simultaneous Delivery and Pickup (VRPSDP) using Artificial Bee Colony (ABC)
 
-## 📦 Project Overview
+##  Project Overview
 
 This project implements a complete simulation and optimization pipeline for solving the **Vehicle Routing Problem with Simultaneous Delivery and Pickup (VRPSDP)** using the **Artificial Bee Colony (ABC)** metaheuristic. It models realistic logistics systems involving multiple depots, vehicles with capacity constraints, and customers with two-way demand (delivery and pickup).
 
@@ -8,7 +8,7 @@ The solution is animated using Matplotlib to visually demonstrate the optimizati
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Multi-Depot Support**: Vehicles can start and end at different depot locations.
 * **Simultaneous Delivery and Pickup**: Each customer has both delivery and pickup requirements.
@@ -19,7 +19,7 @@ The solution is animated using Matplotlib to visually demonstrate the optimizati
 
 ---
 
-## 🧮 Problem Statement
+##  Problem Statement
 
 Given:
 
@@ -36,7 +36,7 @@ Find:
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 ├── VRPSDP.ipynb             # Code
@@ -47,7 +47,7 @@ Run into Colab for faster computation.
 
 
 
-## 📊 Example Output
+##  Example Output
 
 * Multiple colored routes showing vehicle paths from depots to customers
 * Animated progression over 100 iterations of ABC
@@ -59,7 +59,7 @@ Run into Colab for faster computation.
 
 ---
 
-## 🔍 Key Algorithms Used
+##  Key Algorithms Used
 
 * **Artificial Bee Colony (ABC)**
 
@@ -71,7 +71,7 @@ Run into Colab for faster computation.
 
 ---
 
-## 📈 Visualization
+##  Visualization
 
 * Built using `matplotlib.animation.FuncAnimation`
 * Routes are color-coded per vehicle
@@ -79,7 +79,7 @@ Run into Colab for faster computation.
 
 ---
 
-## 📚 Citation
+##  Citations
 
 This project was inspired by and partially based on the methodology described in the following paper:
 
@@ -91,7 +91,7 @@ This project was inspired by and partially based on the methodology described in
 
 ---
 
-## 👤 Author
+##  Author
 
 Sumit — developed as part of summer activities after 2nd year of undergraduation.
 
