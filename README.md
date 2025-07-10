@@ -39,13 +39,11 @@ Find:
 ## 🏗️ Project Structure
 
 ```
-├── main.py                  # Main file with visualization and simulation logic
-├── vrpsdp_classes.py        # Contains class definitions (Customer, Depot, VRPSDP, etc.)
-├── abc_algorithm.py         # ABC optimization logic with crossover and evaluation
+├── VRPSDP.ipynb             # Code
 ├── README.md                # Project documentation
 ```
 
-
+Run into Colab for faster computation.
 
 
 
