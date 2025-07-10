@@ -94,13 +94,6 @@ This project was inspired by and partially based on the methodology described in
 
 ---
 
-## 🙌 Acknowledgements
-
-* Inspired by metaheuristic-based VRP research
-* Optimization framework loosely guided by \[Simsir & Ekmekci, 2019] on ABC for vehicle routing
-* Project developed during exploratory research in logistics optimization at IIT Bombay
-
----
 
 ## 📜 License
 
@@ -110,6 +103,6 @@ MIT License — feel free to use and modify.
 
 ## 👤 Author
 
-Sumit — developed as part of Summer of Science optimization projects, IIT Bombay.
+Sumit — developed as part of summer activities after undergraduate 2nd year.
 
 Feel free to reach out for collaborations or questions!
