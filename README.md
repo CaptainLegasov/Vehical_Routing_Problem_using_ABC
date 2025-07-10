@@ -90,19 +90,11 @@ This project was inspired by and partially based on the methodology described in
 > **Engineering Science and Technology, an International Journal**, Volume 22, Issue 3, 2019, Pages 727–735.
 > [https://doi.org/10.1016/j.jestch.2019.01.002](https://doi.org/10.1016/j.jestch.2019.01.002)
 
-**Keywords**: Vehicle Routing Problem, Optimization, Artificial Bee Colony Algorithm
-
----
-
-
-## 📜 License
-
-MIT License — feel free to use and modify.
 
 ---
 
 ## 👤 Author
 
-Sumit — developed as part of summer activities after undergraduate 2nd year.
+Sumit — developed as part of summer activities after 2nd year of undergraduation.
 
 Feel free to reach out for collaborations or questions!
