@@ -87,7 +87,7 @@ This project was inspired by and partially based on the methodology described in
 
 > **Fuat Şimşir**, **Dursun Ekmekci**.
 > *A metaheuristic solution approach to capacitated vehicle routing and network optimization.*
-> **Engineering Science and Technology, an International Journal**, Volume 22, Issue 3, 2019, Pages 679–688.
+> **Engineering Science and Technology, an International Journal**, Volume 22, Issue 3, 2019, Pages 727–735.
 > [https://doi.org/10.1016/j.jestch.2019.01.002](https://doi.org/10.1016/j.jestch.2019.01.002)
 
 **Keywords**: Vehicle Routing Problem, Optimization, Artificial Bee Colony Algorithm
